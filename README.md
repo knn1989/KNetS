@@ -20,6 +20,12 @@ These packages can be installed by running `pip3 install -r requirements.txt` or
 Currently, the code to generate the data was written to work only with the Camvid dataset.
 
 ### Step 1: Creating .mat file from raw data
+Download [Camvid dataset] (http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
+
+Put images data to the folder `./matlab/Camvid/701_StillsRaw_full`.
+
+Put labels data to the folder `./matlab/Camvid/701_Label`.
+
 Use Maltab to run `make_mat_files.m` in the `matlab` folder to create .mat data files.
 
 Modify the `img_size` and partition rate if needed.
@@ -46,4 +52,4 @@ Put testing images in a folder and use the function `test_segmentize()` in the `
 ## Model
 
 - KNetS
-- FCN8# KNetS
+- FCN8
