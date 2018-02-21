@@ -1,9 +1,9 @@
 ![](https://media.giphy.com/media/9PvhJAFVyHOeituvgI/giphy.gif)
 # Tensorflow - Semantic Segmentation Neural Network
 
-This is an implementation of Convolutional Neural Network for Semantic Segmentation task.
+An implementation of Convolutional Neural Network for Semantic Segmentation task.
 
-This is a deep network of my own design named KNetS inspired by the [DeepLab v.2 Network] (https://arxiv.org/abs/1606.00915)
+This is a deep network of my own design named KNetS, inspired by the [DeepLab v.2 Network] (https://arxiv.org/abs/1606.00915)
 
 ## Requirements
 
