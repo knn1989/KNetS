@@ -1,3 +1,4 @@
+![](https://media.giphy.com/media/9PvhJAFVyHOeituvgI/giphy.gif)
 # Tensorflow - Semantic Segmentation Neural Network
 
 This is an implementation of Convolutional Neural Network for Semantic Segmentation task.
